@@ -281,9 +281,10 @@ ul {
 .audioButton,
 .pauseButton {
 
-    margin: -60px auto;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
+    
 
     justify-content: space-evenly;
     border: 3px solid #396BBA;
